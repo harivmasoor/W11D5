@@ -25,6 +25,8 @@ const remove = (itemId, pokemonId) => ({
   pokemonId
 });
 
+// export const fetchPokemonItems = pokemonID => async dispatch =
+// }
 const initialState = {};
 
 const itemsReducer = (state = initialState, action) => {
